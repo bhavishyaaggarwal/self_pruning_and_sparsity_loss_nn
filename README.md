@@ -1,7 +1,7 @@
 # Self-Pruning Neural Network on CIFAR-10
 
 A neural network that learns to prune its own weights during training — not as a post-processing step, but as a core part of the learning process.
-
+By:- Bhavishya Aggarwal
 ---
 
 ## Why this matters
