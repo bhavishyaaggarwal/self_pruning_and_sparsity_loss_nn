@@ -1,3 +1,5 @@
+TO get full FASTAPI vesion to train the model look in second branck
+
 # Self-Pruning Neural Network on CIFAR-10
 
 This project implements a neural network that learns to prune its own weights during training. Instead of pruning after the fact, the network has learnable gates attached to each weight that gradually close off unnecessary connections on their own.
