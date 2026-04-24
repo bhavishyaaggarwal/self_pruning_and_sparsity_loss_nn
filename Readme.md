@@ -1,4 +1,4 @@
-TO get full FASTAPI vesion to train the model look in second branck
+TO get full FASTAPI vesion to train the model look in second branch
 
 # Self-Pruning Neural Network on CIFAR-10
 
